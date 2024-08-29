@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy David Rodriguez 👋</h1>
 </div>
-<img src="https://files.fm/f/244ydwdgbb](https://media.licdn.com/dms/image/v2/D4E16AQHCLyYWeouz8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708130011032?e=1730332800&v=beta&t=r4T2zShmeksjxIeJt3t8Vstl9odiD0Qwjj47uEZMljg)">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHCLyYWeouz8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708130011032?e=1730332800&v=beta&t=r4T2zShmeksjxIeJt3t8Vstl9odiD0Qwjj47uEZMljg">
 <b>Sobre mi</b>
 
 
